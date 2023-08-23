@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
 body{
     background-image: url(./chess-rook.png);
+    font-family: 'Roboto', sans-serif;
 }
 ol{
     display: flex;
@@ -11,10 +13,7 @@ ol{
     justify-content: space-between;
     margin: 50px;
 }
-nav{
-    padding: 100px;
 
-}
 
 h1{
     padding: 50px;
